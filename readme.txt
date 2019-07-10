@@ -1,3 +1,2 @@
-An example for cat
-hope it works well
-hope it works well
+Git is a version control system.
+Git is free software.
